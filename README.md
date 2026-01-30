@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 ### Hi boys 👋
-我是个小菜鸡，还请大佬多多指教
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cy77cc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
